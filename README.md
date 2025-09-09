@@ -1,4 +1,4 @@
-## Hi there 👋
+## 我是AI领域界的天才！ 👋
 
 <!--
 **chaoaibeidanci/chaoaibeidanci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
